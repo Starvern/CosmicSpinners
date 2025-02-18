@@ -1,0 +1,7 @@
+not_player: "<red>You must be a player to perform this command."
+spinner_selected: "<green>Successfully selected spinner."
+spinner_deselected: "<green>Successfully deselected spinner."
+insufficient_permission: "<red>Insufficient permission."
+plugin_reloaded: "<green>Successfully reloaded plugin."
+specify_spinner: "<red>Please specify a spinner"
+unknown_spinner: "<red>Unknown spinner."

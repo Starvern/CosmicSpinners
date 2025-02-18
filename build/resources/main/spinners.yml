@@ -1,0 +1,14 @@
+example:
+    material: STRING
+    display_name: "{#33f}Example Spinner"
+    description: "&7An example spinner!"
+    permission: "spinners.example"
+    radius: 1
+    speed: 1
+    amount: 1
+    size: 1
+    color:
+        alpha: 1
+        red: 255
+        green: 0
+        blue: 255
